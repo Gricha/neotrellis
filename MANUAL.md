@@ -1,5 +1,6 @@
 # Manual
 
+![Untitled](https://user-images.githubusercontent.com/875316/115981417-67a49600-a548-11eb-879c-d1e32c782d9e.png)
 
 When you turn the toy on, it will start in the Main Menu. From here you can choose any activity. Some of them are simple animations, some of them require some input. You can quit any activity hitting top-left corner button 3 times (see **X** below).
 
